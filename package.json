@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "lucide-react": "^0.516.0",
+    "mongoose": "^8.16.0",
+    "react-helmet-async": "^2.0.5"
+  }
+}
